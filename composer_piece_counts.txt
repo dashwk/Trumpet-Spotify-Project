@@ -1,0 +1,550 @@
+Copland, Quiet City, Count: 28
+Curnow, Concert Piece, Count: 28
+Bloch, Proclamation, Count: 24
+Plog, Animal Ditties, Count: 24
+Kail, Variations in F, Count: 24
+Kreutzer, Variations, Count: 24
+Weber, F. D. Variations in F, Count: 24
+Haydn, Concerto in E-flat, Count: 24
+Llewellyn, My Regards, Count: 24
+Goedicke, Concert Etude, Count: 24
+Broughton, Excursions, Count: 24
+Hovhaness, Haroutiun, Count: 24
+Bernstein, Rondo for Lifey, Count: 20
+Arnold, Fantasy, Count: 20
+Purcell, Sonata, Count: 20
+Viviani, Sonata, Count: 20
+Arutunian, Theme and Variations, Count: 16
+Arutunian, Concert Scherzo, Count: 16
+Bennett, Rose Variations, Count: 16
+Berghmanns, La Chenille, Count: 16
+Bozza, Caprice, Count: 16
+Bozza, Rustiques, Count: 16
+Broughton, Oliver’s Birthday, Count: 16
+Chance, Credo, Count: 16
+Enesco, Legend, Count: 16
+de Falla, Suite of Spanish Songs, Count: 16
+Ibert, Impromptu, Count: 16
+Turrin, Caprice, Count: 16
+Turrin, Elegy, Count: 16
+Turrin, Intrada, Count: 16
+Turrin, Two Portraits, Count: 16
+Lavalee, Meditation, Count: 16
+Mahler, Posthorn Solo, Count: 16
+Millares, Fantasia, Count: 16
+Ponchielli, Concerto No. 1, Count: 16
+Ponchielli, Concerto No. 2, Count: 16
+Ponchielli, Fantasy on motives from “La Traviata”, Count: 16
+Sousa, La Reine D’Amour, Count: 16
+Arutunian, Concerto, Count: 16
+Boehme, Concerto in f-minor, Count: 16
+Hummel, Concerto in E-flat, Count: 16
+Antheil, Sonata, Count: 16
+Casterede, Sonatine, Count: 16
+Hindemith, Sonate, Count: 16
+Bellstedt, Napoli, Count: 16
+Cheetham, Concoctions, Count: 16
+Ott, Three Little Pieces for Trumpet and Tape, Count: 16
+*Jean-Baptiste Arban, Complete Conservatory Method for Trumpet, Count: 12
+*Herbert L. Clarke, Technical Studies, Count: 12
+Max Schlossberg, Daily Drills and Technical Studies for Trumpet, Count: 12
+James Stamp, Warm-Ups + Studies, Count: 12
+*Small, 27 Melodious and Rhythmic Exercises, Count: 12
+Concone, Vocalises, Count: 12
+V. Berdiev, 17 Studies for Trumpet, Count: 12
+_______, Trumpeter’s Guide to II-V-I’s in Twelve Keys, Count: 12
+_______, Trumpeter’s Guide to Minor II-V-I’s in Twelve Keys, Count: 12
+David Baker, How to Play Bebop, Count: 12
+Telemann, Air de Trompette, Count: 12
+Berdiev, Elegy, Count: 12
+Broughton, Folksong, Count: 12
+Ewazen, Ballade for a Ceremony, Count: 12
+Ewazen, Prayer and Praise, Count: 12
+Latham, Suite, Count: 12
+Persichetti, The Hollowmen, Count: 12
+Starer, Invocation, Count: 12
+Peeters, Sonata, Count: 12
+Kennan, Sonata, Count: 12
+Boehme, 24 Melodic Studies, Count: 12
+Clarke, Characteristic Studies, Count: 12
+Gekker, Articulation Studies, Count: 12
+______, Endurance Drills, Count: 12
+______, 24 Etudes, Count: 12
+Goldman, Practical, Count: 12
+ Studies, Count: 12
+Smith, Top Tones for the Trumpeter, Count: 12
+Willey, Trumpeter’s Guide to II-V-I’s, Count: 12
+_____, Trumpeter’s Guide to Minor II-V-I’s, Count: 12
+Bach, Various movements from Suite No. 2 (BWV 1067) such as Rondeau, Badinerie,, Count: 12
+Bach, Various movements from Suite No. 2 (BWV 1067) such as Minuet, Count: 12
+Greene—Boyce, A Suite of Trumpet Voluntaries, Count: 12
+Haendel & His Contemporaries, A Suite of Trumpet Voluntaries, Count: 12
+Martini, Toccata, Count: 12
+Marcello, Concerto in C, Count: 12
+Stanley, Suite No. 1 of Trumpet Voluntaries, Count: 12
+Tartini, Concerto, Count: 12
+Tessarini, Sonata, Count: 12
+(or, sometimes, Concerto, Count: 12
+Biber, Sonata IV, Count: 12
+Corelli, Sonata in D, Count: 12
+Fasch, Concerto in D, Count: 12
+Krebs, The Six Chorale Preludes, Count: 12
+Handel, Suite in D, Count: 12
+Mouret, Fanfares pour de trompettes, Count: 12
+Mozart, L., Concerto in D, Count: 12
+Telemann, Concerto (No. 1) in D, Count: 12
+Torelli, Concerto, Count: 12
+____, BWV 66, #1 (Chorus, Erfreut euch, ihr Herzen, Count: 12
+____, BWV 43, #7 (Bass Aria, Er Ists, Der Ganz Allein, Count: 12
+____, BWV 76, #5 (Bass Aria, Fahr Hin, Abgottische Zunft!, Count: 12
+____, BWV 90, #3 (Bass Aria, So löschet im Eifer, Count: 12
+____, BWV 128, #3 (Bass Aria, Auf, auf, mit hellem Schall, Count: 12
+Baltakas, RiRo, Count: 12
+Burgon, G., At the Round Earth’s Imagined Corners, Count: 12
+_______, Nun Dimittis, Count: 12
+Cooman, C., Orbiting Paradise, Count: 12
+_______, Chasing the Moon Down, Count: 12
+Friedman, S., She Walks in Beauty, Count: 12
+Handel, Part the Third bass aria from Messiah, Count: 12
+____, Act II soprano aria from Samson, Count: 12
+____, Act III tenor aria from Judas Maccabeus,, Count: 12
+_____, “Desterò dall’ Empia Dite from Amadigi, Count: 12
+Melani, (soprano cantata) All’armi pensieri, Count: 12
+_____, (soprano cantata) Quai bellici accenti, Count: 12
+(or , La Tromba, Count: 12
+_____, (soprano cantata) Qual mormorio giocondo, Count: 12
+Purcell, Daniel, “Trumpet Song” from Massaniello, Count: 12
+_____, “To arms, heroic prince” from The Libertine, Count: 12
+_____, “Sound, Fame, thy brazen trumpet” from The Prophetess, Count: 12
+_____, “Genius of England” and “Then follow” both from Don Quixote, Count: 12
+_____, “O be joyful in the Lord” from Te Deum and Jubilate, Count: 12
+_____, “Sound the trumpet” from Who can from joy refrain?, Count: 12
+_____, “Thus the gloomy world” from The Fairy Queen, Count: 12
+Scarlatti, A., 7 Arie con Tromba Sola, Count: 12
+(with soprano) 1., Count: 12
+(with soprano) Si suoni la tromba, Count: 12
+(with soprano) 2., Count: 12
+(with soprano) In terra la guerra, Count: 12
+(with soprano) 3., Count: 12
+(with soprano) Con voce festiva, Count: 12
+(with soprano) 4., Count: 12
+(with soprano) Rompe sprezza, Count: 12
+(with soprano) 5., Count: 12
+(with soprano) Si riscaldi il Tebro, Count: 12
+(with soprano) 6., Count: 12
+(with soprano) Mio tesoro, Count: 12
+(with soprano) 7., Count: 12
+(with soprano) Faro la vendetta, Count: 12
+Scarlatti, A., Soprano cantata Su le sponde del Tebro, Count: 12
+C.), Veni Consolator, Count: 12
+Stephenson, J., Walk Slowly, Count: 12
+Starer, R., The Mystic Trumpeter, Count: 12
+Tiefenbach, P., Three Poems, Count: 12
+Predieri, Soprano aria “Pace una volta” from Zenobia, Count: 12
+Wildgans, Der Mystische Trompeter, Count: 12
+Bitsch, Four Variations on a theme by Domenico Scarlatti, Count: 12
+Brandt, Concert Piece, Count: 12
+Busser, H., Andante et Allegro, Count: 12
+Charlier, Solo de concours, Count: 12
+Cooman, Autumn Songs, Count: 12
+ _______, Autumn Sun Canticle, Count: 12
+ _______, Big Blue House, Count: 12
+ _______, Every Which Shining Way, Count: 12
+ _______, Spring Songs, Count: 12
+ _______, Sun Tracing, Count: 12
+ _______, Three Intermezzi, Count: 12
+ _______, Two Psalms, Count: 12
+ _______, Voices of the Trumpet, Count: 12
+ _______, Voices that Cradle the Dawn, Count: 12
+Damase, J. M., Hymne, Count: 12
+Ewazen, New England Portraits, Count: 12
+______, Three Lyrics, Count: 12
+______, Hymn for the Lost and the Living, Count: 12
+Gershwin/Turrin, Someone to Watch Over Me, Count: 12
+Higdon, Trumpet Songs, Count: 12
+Honegger, Intrada, Count: 12
+Ives/Bilger, Variations on America, Count: 12
+Koetsier, Sonatina, Count: 12
+Kupfermann, 3 Ideas, Count: 12
+McKee, Kevin, Centennial Horizon, Count: 12
+Nyman, Flugelhorn and Piano, Count: 12
+Rorem, Cries and Whispers, Count: 12
+Schickele, Three Uncharacteristic Pieces, Count: 12
+Shchedrin, Spanish Dance, Count: 12
+Shostokovich, Fantastic Dances, Count: 12
+Snow, Winter, Count: 12
+Stephenson, James 2/2 Tango, Count: 12
+_______, Bagatelle, Count: 12
+_______, Burden of Destiny, Count: 12
+_______, Fantasie, Count: 12
+_______, Mutation, Count: 12
+_______, Reflections, Count: 12
+_______, Remember Forward, Count: 12
+_______, Serendipity, Count: 12
+_______, Song, Count: 12
+_______, Variations on a Theme by Haydn, Count: 12
+Suderburg, Chamber Music VII, Count: 12
+and Chamber Music VIII, Count: 12
+Sutermeister, Gavotte de Concert, Count: 12
+Turrin, Escapade, Count: 12
+Wintle, James, The Key, Count: 12
+Holloway, John, Wood Up Quickstep, Count: 12
+Paisiello/arr. Dignam, Hope Told a Flatt'ring Tale, Count: 12
+Sachse, Concertino, Count: 12
+Schmitt, Henry, Hero's Quickstep, Count: 12
+Suppe, Divertissement, Count: 12
+Cooman, Sonata for Trumpet and Piano, Count: 12
+Davies, Sonata, Count: 12
+Dello Joio, Sonata, Count: 12
+Erb, Sonatina, Count: 12
+Ewazen, Sonata, Count: 12
+Francaix, Sonatine, Count: 12
+Stevens, Sonata, Count: 12
+Stephenson, Sonata, Count: 12
+Malcolm, Arnold, Trumpet Concerto, Count: 12
+Chaynes, Concerto No. 1 & 2, Count: 12
+Cooman, Silver Lagoons, Count: 12
+Desenclos, Incantation, Threne et Danse, Count: 12
+Erb, Concerto, Count: 12
+Gregson, Trumpet Concerto, Count: 12
+Jolivet, Concertino, Count: 12
+and Concerto No. 2, Count: 12
+Koetsier, Concerto, Count: 12
+Lovelock, Concerto, Count: 12
+Schuller, G., Concerto for Trumpet and Chamber Orchestra, Count: 12
+Shakhov, Romantic Concerto, Count: 12
+Shchedrin, Concerto, Count: 12
+Stephenson, Concerto, Count: 12
+Tamberg, Concerto, Count: 12
+Tomasi, Concerto, Count: 12
+Williams, John, Concerto for Trumpet, Count: 12
+Zimmermann, Nobody Knows De Trouble I See, Count: 12
+Appledorn, Concerto, Count: 12
+Bennett, Richard Rodney, Concerto, Count: 12
+Bilik, Concerto, Count: 12
+Bitensky, Awake You Sleepers, Count: 12
+______, The Closing of the Gates, Count: 12
+Broege, Concert Piece, Count: 12
+Farnon, Blow the Wind Southerly, Count: 12
+Francaix, Le Gai Paris, Count: 12
+Gillingham, When Speaks the Signal Trumpet-Tone, Count: 12
+Gryc, Evensong, Count: 12
+Hagen, Concerto, Count: 12
+Hartley, Concertino, Count: 12
+Hovhaness, Return and Rebuild the Desolate Places, Count: 12
+Husa, Concerto, Count: 12
+Latham, Fantasy, Count: 12
+Lawrence, Dialogue, Count: 12
+Lendvay, Concerto, Count: 12
+Linkola, Tango-Tarantella, Count: 12
+Mailman, Concertino, Count: 12
+Petrov, Concerto, Count: 12
+Pinkham, Serenades, Count: 12
+Reed, Concerto, Count: 12
+Sapieyevski, Concerto, Count: 12
+Smith, Hale, Exchanges, Count: 12
+Stephenson, August in York, Count: 12
+_____, Duo Fantastique, Count: 12
+_____, Queen of the Night Aria, Count: 12
+Tull, Rhapsody, Count: 12
+Turrin, Chronicles, Count: 12
+Werle, Concertos No. 1-4, Count: 12
+Whitney, Concertino, Count: 12
+Wilder , Concerto No. 1, Count: 12
+_____, Concerto No. 2, Count: 12
+Ziek, Essays for Trumpet, Count: 12
+Bach, V., Hungarian Melodies, Count: 12
+Bellstedt, Carmen Fantasy, Count: 12
+Dinicu, Hora Stacatto, Count: 12
+Hohne, Slavic Fantasy, Count: 12
+Mendez, La Virgen de la Macarena, Count: 12
+Monti, Czardas, Count: 12
+Adler, Canto I, Count: 12
+Bach, J. S., Cello Suites, Count: 12
+Berio,	  Luciano, Good	  night, Count: 12
+_____, Sequenza X, Count: 12
+Bozza, Graphismes, Count: 12
+Campo, Times, Count: 12
+Carter, Retracing III, Count: 12
+Charlier, any etude from his Transcendental Etudes, Count: 12
+Dockshitser, Images Romantique, Count: 12
+Endsley, Chant, Count: 12
+Erb, Dance, You Monster, To My Soft Song, Count: 12
+Erickson, Kryl, Count: 12
+Friedman, Laude, Count: 12
+Friedman, _____, Solus, Count: 12
+Gallagher, Sonata for unaccompanied trumpet, Count: 12
+Henze, Sonatina, Count: 12
+Hoffman, 4 Miniatures, Count: 12
+Jolivet, Air de Bravoure, Count: 12
+Ligeti, The Big Turtle-Fanfare from the South China Sea, Count: 12
+Lutosławski, Tune, Count: 12
+Paganini, arr. Dokshitser, Caprice No. 17, Count: 12
+Persichetti, Parable XIV, Count: 12
+Plog, Postcards, Count: 12
+Rabe, Shazam, Count: 12
+Reiche, Abblasen, Count: 12
+Sampson, Litany of Breath, Count: 12
+Smith, Glenn, to seek the center of quiet (1975), Count: 12
+Tull, Episodes, Count: 12
+Tull, 8 Profiles, Count: 12
+Whittenberg, Polyphony for Solo C Trumpet, Count: 12
+Wolpe, Solo Piece for Trumpet, Count: 12
+Vizzuti, Cascades, Count: 12
+Dodge, Extensions, Count: 12
+Harvey, Ricarcare una Melodia, Count: 12
+Hellermann, Passages 13-The Fire, Count: 12
+Holz, 6 Mosaik Inventionen, Count: 12
+Kaipainen, Altaforte, Count: 12
+Lazarof, Concertazioni, Count: 12
+Maresz, Metallics, Count: 12
+Neuwirth, Addio...sognando, Count: 12
+Reynolds, The Serpent-Snapping Eye, Count: 12
+Schlünz, Copeaux, éclisses, Count: 12
+Schwartz, Music for Napoleon and Beethoven, Count: 12
+Stockhausen, Aries, Count: 12
+Stockhausen, Trompete, Count: 12
+Thewes, Koko, Count: 12
+de la Vega, Para-Tangents, Count: 12
+De la Lande, M. R., Suite, Count: 12
+Eben, Okna, Count: 12
+Pinkham, Psalms, Count: 12
+Plog, 4 Themes on a Painting of Edvard Munch, Count: 12
+Sowerby, Fantasy, Count: 12
+Stephenson, Divertimento, Count: 12
+_____, Fanfare for an Angel, Count: 12
+_____, Glimmers of Hope, Count: 12
+_____, Sound and Fury, Count: 12
+Tomasi, Variations Gregoriennes, Count: 12
+Bach, Brandenburg Concerto No. 2, Count: 12
+Barber, Capricorn Concerto, Count: 12
+Brant, Concerto, Count: 12
+Clarke, Cousins, Count: 12
+Ewazen, Pastorale, Count: 12
+____, An Elizabethan Songbook, Count: 12
+Hindemith, Concerto, Count: 12
+Linn, Concerto Grosso, Count: 12
+Martin, Frank, Concerto, Count: 12
+Shostokovich, Piano Concerto no. 1, Count: 12
+Turrin, Fandango, Count: 12
+Adams, John Tromba Iontana, Count: 12
+Anonymous (Torelli School), Sinfonia a 2 trombe, Count: 12
+_____ (Torelli School), Sinfonia con due trombe, Count: 12
+Biber, H. I. F., Sonata I, Count: 12
+_____, Sonata VII, Count: 12
+_____, Sonata XII, Count: 12
+_____, 12 Duets, Count: 12
+ Baroque Duets, Count: 12
+Clodomir, 12 Duets, Count: 12
+Erb, Four Duets for Trumpets, Count: 12
+___, Remembrances, Count: 12
+Ewazen, Sonatina, Count: 12
+Franceschini, Sonata in D, Count: 12
+Mathie, Telemann for Two Transposing Trumpeters, Count: 12
+Nelson, Advanced	  Duets, Count: 12
+Paudert, 6	  Duets, Count: 12
+Persichetti, Parable	  XXV, Count: 12
+Pietzsch, 24	  Duets, Count: 12
+Rittler, Ciacona, Count: 12
+Sachse, 6	  Duets, Count: 12
+Stravinsky, Fanfare	  for	  a	  New	  Theater, Count: 12
+Vejvanovsky, Sonata	  “Scti	  Mauritii”, Count: 12
+Vivaldi, Concerto	  in	  C, Count: 12
+Wuorinen, Epithalamium, Count: 12
+Britten, Fanfare for St Edmundsbury, Count: 12
+Broughton, Contest Piece for Eight Trumpets, Count: 12
+Carter, Birthday Flourish, Count: 12
+Carter, Canon for Three, Count: 12
+Ewazen, A Concert Fanfare, Count: 12
+Ewazen, Fantasia for Seven Trumpets, Count: 12
+Ewazen, Prelude and Fugue for Trumpet Choir, Count: 12
+Ewazen, Sonoran Desert Harmonies, Count: 12
+Hummel, Bertold, Saeckingen, Count: 12
+Ruggles, Angels, Count: 12
+Tomasi, Trio, Count: 12
+Tower, Fanfare for the Uncommon Woman, Count: 12
+Wuorinen, Big Epithalamium, Count: 12
+Young, The Second Dream of the High-Tension Line Stepdown Transformer, for 8, Count: 12
+Young, trumpets, Count: 12
+Ewazen, A Philharmonic Fanfare for trumpet, horn and trombone, Count: 12
+Poulenc, Trio, Count: 12
+Haines, Toccata, Count: 12
+Horovitz, Variations on a Theme by Paganini, Count: 12
+Premru, Quartet, Count: 12
+Presti, Miniature for Brass Quartet, Count: 12
+Ramsoe, Quartet No. 4, Count: 12
+and Quartet No. 5, Count: 12
+Ritter George, Brass Quartet No. 1, Count: 12
+and 2, Count: 12
+ Sonata from Bankelsnagerlieder, Count: 12
+Arnold, Malcolm, Quintet, Count: 12
+Arutunian, Armenian Scenes for Brass Quintet, Count: 12
+Bach, Jan, Laudes, Count: 12
+Bach/Vivaldi arr. David Baldwin, Concerto Grosso, Count: 12
+Bach-Frackenpohl, Goldberg Variations, Count: 12
+Bach-Mills, Art of the Fugue, Count: 12
+Bach-Mills, Little Fugue in g minor, Count: 12
+Bach-Mills, Toccata and Fugue in d minor, Count: 12
+Bernstein, Leonard, Dance Suite, Count: 12
+Boehme, Sextet, Count: 12
+Bozza, Sonatine, Count: 12
+Byrd, Alleluia, Count: 12
+Calvert, Suite from Monteregian Hills, Count: 12
+Cheetham, Scherzo, Count: 12
+Dahl, Ingolf, Music for Brass, Count: 12
+Delerue, Vitrail, Count: 12
+DiLorenzo, Anthony, Fire Dance, Count: 12
+Ewald, Quintet 1 and 3, Count: 12
+Ewazen, Colchester Fantasy, Count: 12
+_____, Frost Fire, Count: 12
+Forsyth, The Golyrdes Ground, Count: 12
+Friedman, La Pittura for Solo Trumpet and Brass Quintet, Count: 12
+Kamen, Quintet, Count: 12
+Koetsier, Brass Quintet, Count: 12
+Lutoaslovski, Mini Overture, Count: 12
+Mauer, Three Pieces, Count: 12
+Pezel, Three Pieces, Count: 12
+Plog, Four Sketches, Count: 12
+Previn, Four Outings for Brass, Count: 12
+Renwick, Dance, Count: 12
+Reynolds, Centone #5, Count: 12
+____, Suite for Brass, Count: 12
+Sampson, Morning Music, Count: 12
+Scheidt, Galliard Battaglia, Count: 12
+Susato, Renaissance Dances, Count: 12
+Turner, Ricochet, Count: 12
+Berio, Kol-Od, Count: 12
+(Chemins VI) (trumpet and chamber ensemble—same trumpet part as Sequenza X, Count: 12
+Bolling, Toot Suite, Count: 12
+Cooman, Lyric Trio for Trumpet, Cello, and Piano, Count: 12
+Erb, Diversion for Two (other than sex), Count: 12
+Ewazen, Trio for Trumpet, Violin and Piano, Count: 12
+____, Mandala, Count: 12
+_____, Quintet for Trumpet and Strings, Count: 12
+Harrison, Music for Kyai Hudan Mas, Count: 12
+Honneger, Le Dit des Jeux du Monde, Count: 12
+Hummel, B. Trio for trumpet in C, Percussion, and piano, Count: 12
+Hummel, J. N., Septet Militaire, Count: 12
+Indy, Vincent d’, Suite dans le style ancien, Count: 12
+Ives, The Unanswered Question, Count: 12
+Jolivet, Heptade, Count: 12
+Kraft, Encounters III: Duel for Trumpet and Percussion, Count: 12
+Kulesha, Jazz Music for Brass Quintet, Percussion and Piano, Count: 12
+Powell, Divertimento for Five Winds, Count: 12
+Saint-Saens, Septet, Count: 12
+Snow, A Baker’s Tale, Count: 12
+Stravinsky, L’Histoire du Soldat, Count: 12
+____, Octet, Count: 12
+Varese, Octandre, Count: 12
+Walton, Façade, Count: 12
+Getchell, First and Second Books, Count: 8
+Corelli/Fitzgerald, Sonata VIII, Count: 8
+Fitzgerald, Bach Suite, Count: 8
+Telemann/Paetzold, Heroic Music, Count: 8
+Vivaldi/Fitzgerald, Allegro, Count: 8
+Anderson, A Trumpeter’s Lullaby, Count: 8
+Balay, Petite Piece Concertante, Count: 8
+Barat, Oriental, Count: 8
+Barat, Andante et Scherzo, Count: 8
+Berghmans, La Chenille, Count: 8
+Boehme, Berceuse, Count: 8
+Bozza, Badinage, Count: 8
+Cooman, Lamentoso, Count: 8
+_____, Eagles: Suite for Trumpet and Piano, Count: 8
+Gabaye, Boutade, Count: 8
+Gabaye, Feu d’Artifice, Count: 8
+Hartley, Sonatina, Count: 8
+Hovhanness, Prayer of St. Gregory, Count: 8
+Ravel, Piece en forme de Habanera, Count: 8
+Ropartz, Andante et Allegro, Count: 8
+Turrin, Four Miniatures, Count: 8
+Turrin, Three Episodes, Count: 8
+Fitzgerald, Concerto, Count: 8
+Giannini, Concerto, Count: 8
+Neruda, Concerto in E-flat, Count: 8
+Riisager, Concertino, Count: 8
+Berdiev, Sonata, Count: 8
+Emmanuel, Sonata, Count: 8
+Hansen, Sonata for cornet and piano, Count: 8
+Pilss, Sonata, Count: 8
+A Clarke cornet solo, such as Maid of the Mist, Trixie Valse, Venus Waltz, Count: 8
+, or Victory, Count: 8
+Bowles, Night Sun Journey, Count: 8
+Frackenphohl, 3 Statements, Count: 8
+Presser, Second Suite, Count: 8
+*Claude Gordon, Systematic Approach to Daily Practice, Count: 8
+*Clarke, Setting Up Drills, Count: 8
+*Bai Lin, Lip Flexibilities, Count: 8
+*James Thompson, The Buzzing Book, Count: 8
+*N. Bousquet, 36 Celebrated Studies, Count: 8
+*Brandt, Orchestral Etudes, Count: 8
+*Bordogni, The Complete Book of Vocalises, Count: 8
+*P. Norris, Top 50 Orchestral Excerpts, Count: 8
+Rob Roy McGregor, Audition and Performance Preparation for Performance;, Count: 8
+Rob Roy McGregor, Orchestral Literature Studies, Count: 8
+*Rich Willey, Jazz Improv Materials Handbook Complete, Count: 8
+Albinoni, Sonata No. 1 in C, Count: 8
+Torelli, Sonata in D, Count: 8
+Clarke, Setting Up Drills, Count: 4
+Bai Lin, Lip Flexibilities, Count: 4
+James Thompson, The Buzzing Book, Count: 4
+Bordogni, The Complete Book of Vocalises, Count: 4
+P. Norris, Top 50 Orchestral Excerpts, Count: 4
+Rich Willey, Jazz Improv Materials Handbook Complete, Count: 4
+_______, English Suite, Count: 4
+_______, Italian Suite, Count: 4
+Alary, Morceau de concours, Count: 4
+Alexius, Sonatina, Count: 4
+____, Prelude et Ballade, Count: 4
+Barat, Fantaisie en Mi-flat, Count: 4
+Barat, Lento et Scherzo, Count: 4
+Busser, Variations, Count: 4
+Damase, Hymne, Count: 4
+______, Trois prieres sans paroles, Count: 4
+Delmas, Chorale and Variations, Count: 4
+______, An Elizabethan Songbook, Count: 4
+Goeyens, All ‘Antica, Count: 4
+Reed, A., Ode for Trumpet, Count: 4
+Thompson, Virgil, At the Beach, Count: 4
+Forestier, Fantasie Brilliante, Count: 4
+Simon, F., Willow Echoes, Count: 4
+Barat, Fanaisie en Mi-flat, Count: 4
+*Sachse, One Hundred Studies, Count: 4
+Charlier, Thirty Six Transcendent Studies, Count: 4
+Bozza, 16 Etudes, Count: 4
+Corelli, Sonata VII, Count: 4
+Fiocco/Fitzgerald, Allegro, Count: 4
+Handel/Fitzgerald, Adagio and Allegro, Count: 4
+Handel/Fitzgerald, Aria con variazioni, Count: 4
+Marcello, Concerto in D minor, Count: 4
+Stradella, Sinfonia Avanti il Barcheggio, Count: 4
+Torelli, Sonata Avanti l’opera, Count: 4
+Alary, Morceau de Concours, Count: 4
+Bitsch, Fantasietta, Count: 4
+Bozza, Lied, Count: 4
+Charlier, Solo de Concours, Count: 4
+Cowell, Triad, Count: 4
+Engelke (ed.), A Brazilian Collection: Five Works for Trumpet and Piano, Count: 4
+Goeyens, Al’Antica, Count: 4
+Goeyens, Introduction et Scherzo, Count: 4
+Jolivet, Arioso Barocco, Count: 4
+Nestico, Portrait of a Trumpet, Count: 4
+Peaslee, Nightsongs, Count: 4
+Schickele, Three uncharacteristic Pieces, Count: 4
+Smith, Claude T., Fantasy for Trumpet, Count: 4
+Thompson, V., At the Beach, Count: 4
+Arnold, Concerto, Count: 4
+Gregson, Concerto, Count: 4
+Martinu, Sonatina, Count: 4
+V. Bach, Hungarian Melodies, Count: 4
+Bellstedt, Carmen Fantasie, Count: 4
+Boehme, La napolitaine, Count: 4
+Boehme, Russian Danse, Count: 4
+Diniciu, Hora Staccato, Count: 4
+Hoehne, Slavische Fantasie, Count: 4
+Jolivet, Air de Bravaure, Count: 4
+Ketting, Intrada, Count: 4
+Persichetti, Parable, Count: 4
+Tull, Eight, Count: 4
+ Profiles, Count: 4
+Vizutti, Cascades, Count: 4
